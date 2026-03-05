@@ -30,7 +30,7 @@ including:
 
 ------------------------------------------------------------------------
 
-## 📊 Project Workflow
+##  Project Workflow
 
 1.  Data Collection
 2.  Data Cleaning & Preprocessing
@@ -42,7 +42,7 @@ including:
 
 ------------------------------------------------------------------------
 
-## 📈 Visualizations
+##  Visualizations
 
 The project includes several visualizations:
 
@@ -54,7 +54,7 @@ These help understand relationships between features and house prices.
 
 ------------------------------------------------------------------------
 
-## 🤖 Machine Learning Model
+##  Machine Learning Model
 
 The model used in this project is **Linear Regression**, a supervised
 learning algorithm used for predicting continuous values.
